@@ -1,2 +1,2 @@
-# RhinoInsideBasicTutorial
-Basic tutorial on connecting Revit and Grasshopper with Rhino.Inside.Revit (Bahasa Indonesia)
+# Tutorial Dasar Rhino.Inside.Revit untuk AR3290-2024
+
