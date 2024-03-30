@@ -18,6 +18,23 @@ Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software beri
 
 ## File Contoh
 
-File contoh model Revit dan script Grasshopper dapat diunduh di folder [Sample_Files](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Files).
+- [File contoh RVT dan GH](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Files).
 
-File contoh hasil render menggunakan AI dapat diunduh di folder [Sample_Render](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Render).
+- [File contoh hasil AI Render](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Render).
+
+## Referensi
+
+- [BIM + Computational Design + AI menggunakan Revit, Rhino.Inside, Grasshopper, dan Veras](https://youtu.be/HsxuzNzMt2A)
+
+- [Rhino.Inside.Revit Guides](https://www.rhino3d.com/inside/revit/1.0/guides/)
+
+- [Konsep Massa Bangunan di Revit menggunakan In-Place Mass bagian 1](https://youtu.be/zNI8fCXr3Ow?si=yAzj4EV8YX9lS-by)
+
+- [Konsep Massa Bangunan di Revit menggunakan In-Place Mass bagian 2](https://youtu.be/1fWu17E0JEU?si=zGPVEaBHnNsmQAK7)
+
+- [Massing Studies](https://help.autodesk.com/view/RVTLT/2024/ENU/?guid=GUID-B8858693-F46D-4211-8CCC-B5E88681C466)
+
+- [Create an In-Place Mass](https://help.autodesk.com/view/RVTLT/2024/ENU/?guid=GUID-A180B32D-E7B8-474F-AB31-B15EDB874F6E)
+
+
+
