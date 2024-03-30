@@ -18,4 +18,6 @@ Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software beri
 
 ## File contoh
 
-File contoh model Revit dan script Grasshopper dapat diunduh di folder [Sample_Files](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Files). File contoh hasil render menggunakan AI dapat diunduh di folder [Sample_Render](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Render).
+File contoh model Revit dan script Grasshopper dapat diunduh di folder [Sample_Files](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Files).
+
+File contoh hasil render menggunakan AI dapat diunduh di folder [Sample_Render](https://github.com/armanwu/RhinoInsideBasicTutorial/tree/main/Sample_Render).
