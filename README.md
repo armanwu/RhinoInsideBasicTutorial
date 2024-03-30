@@ -1,4 +1,4 @@
-# Tutorial Dasar Rhino.Inside.Revit untuk AR3290-2024
+# Tutorial Dasar Rhino.Inside.Revit
 Ini adalah salah satu materi dari Modul Layanan Komputasi mata kuliah AR3290 Arsitektur ITB pada tanggal 1 April 2024. Fokus dari materi ini adalah penggunaan Rhino.Inside.Revit sebagai penghubung antara Revit sebagai BIM Authoring Tools dengan Rhino+Grasshopper sebagai Visual Programming untuk Parametric Design. Di akhir materi akan diperkenalkan sekilas mengenai penggunaan Veras sebagai AI Render.
 
 ## Tautan Video Youtube
