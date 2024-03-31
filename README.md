@@ -101,7 +101,7 @@ Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software beri
 
 ![Floor_Wall_Roof-11](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/03-Floor_Wall_Roof%20(18).png)
 
-## 4 Menghubungkan Model Revit ke Rhino+Grasshopper dengan Graphical Element
+## 4 Menghubungkan Model Revit ke Rhino+GH
 
 ### 4.1 Menjalankan Rhino.Inside.Revit
 ![Revit_to_Grasshopper-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(1).png)
@@ -125,7 +125,12 @@ Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software beri
 
 ![Facade-2](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/05-Facade%20(3).png)
 
-## 6 Menghubungkan Geometri Grasshopper ke Revit Menggunakan Direct Shape
+## 6 Menghubungkan Geometri Rhino+GH ke Revit
+
+![Grasshopper_to_Revit-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/06-Grasshopper_to_Revit%20(1).png)
+![Grasshopper_to_Revit-2](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/06-Grasshopper_to_Revit%20(2).png)
+![Grasshopper_to_Revit-3](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/06-Grasshopper_to_Revit%20(3).png)
+![Grasshopper_to_Revit-4](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/06-Grasshopper_to_Revit%20(4).png)
 
 ## Tautan Video Youtube
 [Klik di sini](https://youtu.be/HsxuzNzMt2A) untuk melihat video penjelasan materi ini di Youtube.
