@@ -1,11 +1,9 @@
 # Tutorial Dasar Rhino.Inside.Revit
 Ini adalah salah satu materi dari Modul Layanan Komputasi mata kuliah AR3290 Arsitektur ITB pada tanggal 1 April 2024. Fokus dari materi ini adalah penggunaan Rhino.Inside.Revit sebagai penghubung antara Revit sebagai BIM Authoring Tools dengan Rhino+Grasshopper sebagai Visual Programming untuk Parametric Design. Di akhir materi akan diperkenalkan sekilas mengenai penggunaan Veras sebagai AI Render.
 
-Materi di tutorial ini menggunakan Revit versi 2023.1, Rhino 7 (termasuk Grasshopper), Rhino.Inside.Revit versi 1.0, dan Veras versi. 1.6.4.0.
-
 ## Software yang Diperlukan
 
-Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software berikut:
+Materi di tutorial ini menggunakan Revit 2023.1, Rhino 7 SR36, Grasshopper 1.0.0007, Rhino.Inside.Revit 1.0, dan Veras 1.6.4.0. Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software tersebut:
 
 - [Autodesk Revit](https://www.autodesk.com/education/edu-software/)
 
