@@ -42,9 +42,9 @@ Materi di tutorial ini menggunakan Revit 2023.1, Rhino 7 SR36, Grasshopper 1.0.0
 3. Buka Show Grids, kemudian aktifkan agar grid tampil di 3D view.
 4. Pastikan grid dan level tampil di 3D view.
 
-## 2 Membuat Massa Bangunan dengan In-Place Mass
+## 2 Membuat Massa Bangunan di Revit
 
-### 2.1 Memulai In-Place Mass
+### 2.1 Menggunakan In-Place Mass
 ![Mass-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/02-Mass%20(1).png)
 1. Pilih menu Massing & Site.
 2. Pilih In-Place Mass.
@@ -71,7 +71,7 @@ Materi di tutorial ini menggunakan Revit 2023.1, Rhino 7 SR36, Grasshopper 1.0.0
 3. Buat garis di bidang samping atau dinding geometri massa.
 4. Klik Finish Mass.
 
-## 3 Membuat Lantai, Dinding, dan Atap dengan Massing
+## 3 Membuat Lantai, Dinding, dan Atap
 
 ### 3.1 Membuat Floor dengan Mass Floor
 ![Floor_Wall_Roof-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/03-Floor_Wall_Roof%20(1).png)
@@ -154,13 +154,13 @@ Materi di tutorial ini menggunakan Revit 2023.1, Rhino 7 SR36, Grasshopper 1.0.0
 1. Pilih semua objek yang ada di tampilan 3D view Revit.
 2. Klik Finish.
 
-### 4.3 Membuat Garis Acuan untuk Secondary Skin Di Revit
+### 4.3 Membuat Garis Acuan untuk Secondary Skin
 ![Revit_to_Grasshopper-5](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(5).png)
 1. Kembali ke Revit, kemudian pilih menu Architecture.
 2. Pilih Model Line.
 3. Buat garis acuan untuk posisi secondary skin.
 
-### 4.4 Menyesuaikan Posisi Secondary Skin terhadap Level
+### 4.4 Menyesuaikan Level untuk Secondary Skin
 ![Revit_to_Grasshopper-6](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(6).png)
 1. Buat Graphical Element baru kemudian hubungkan dengan garis acuan di Revit.
 2. Ubah Graphical Element tersebut menjadi Curve.
