@@ -101,14 +101,31 @@ Sebelum memulai materi ini, sebaiknya melakukan instalasi software-software beri
 
 ![Floor_Wall_Roof-11](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/03-Floor_Wall_Roof%20(18).png)
 
-## 4 Membuat Secondary Skin di Grasshopper berdasarkan Model Revit
+## 4 Menghubungkan Model Revit ke Rhino+Grasshopper dengan Graphical Element
 
+### 4.1 Menjalankan Rhino.Inside.Revit
 ![Revit_to_Grasshopper-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(1).png)
+
+### 4.2 Menggunakan Graphical Element
 ![Revit_to_Grasshopper-2](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(2).png)
+
 ![Revit_to_Grasshopper-3](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(3).png)
+
 ![Revit_to_Grasshopper-4](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(4).png)
+
+### 4.3 Membuat Garis Acuan untuk Secondary Skin Di Revit
 ![Revit_to_Grasshopper-5](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(5).png)
+
+### 4.4 Menyesuaikan Posisi Secondary Skin terhadap Level
 ![Revit_to_Grasshopper-6](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/04-Revit_to_Grasshopper%20(6).png)
+
+## 5 Membuat Secondary Skin di Grasshopper
+
+![Facade-1](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/05-Facade%20(2).png)
+
+![Facade-2](https://github.com/armanwu/RhinoInsideBasicTutorial/blob/main/Images/05-Facade%20(3).png)
+
+## 6 Menghubungkan Geometri Grasshopper ke Revit Menggunakan Direct Shape
 
 ## Tautan Video Youtube
 [Klik di sini](https://youtu.be/HsxuzNzMt2A) untuk melihat video penjelasan materi ini di Youtube.
