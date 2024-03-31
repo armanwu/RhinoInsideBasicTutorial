@@ -252,6 +252,3 @@ Ini hanyalah sekedar pengenalan akan tampilan UI dari aplikasi Veras yang dijala
 - [Massing Studies](https://help.autodesk.com/view/RVTLT/2024/ENU/?guid=GUID-B8858693-F46D-4211-8CCC-B5E88681C466)
 
 - [Create an In-Place Mass](https://help.autodesk.com/view/RVTLT/2024/ENU/?guid=GUID-A180B32D-E7B8-474F-AB31-B15EDB874F6E)
-
-
-
